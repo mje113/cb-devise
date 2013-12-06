@@ -1,0 +1,5 @@
+require 'activemodel'
+require 'couchbase'
+require 'couchbase/model'
+require 'orm_adapter/adapters/couchbase'
+require 'devise/orm/couchbase'
